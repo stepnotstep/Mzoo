@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "Как ты проводишь свободное время?",
+    "answers": [
+      {"text": "Сначала я его планирую", "weights": ["gavialovyy_krokodil", "zmeinosheynaya_cherepaha"]},
+      {"text": "Просто посидеть почитать", "weights": ["mysh_malyutka", "aksolotl"]},
+      {"text": "Общаюсь с друзьями", "weights": ["boliviyskaya_mirikina", "raduzhnyy_krab"]}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Как ты реагируешь, когда тебя неожиданно тревожат?",
+    "answers": [
+      {"text": "Сразу отвечаю", "weights": ["zakavkazskaya_nosataya_gadyuka", "cepkohvostyy_botrops"]},
+      {"text": "Полностью игнорирую", "weights": ["mysh_malyutka", "gavialovyy_krokodil"]},
+      {"text": "Сначала пытаюсь понять, что происходит", "weights": ["belogolovyy_orlan", "aksolotl"]}
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Что ближе твоему характеру?",
+    "answers": [
+      {"text": "Медлительность, но стабильность", "weights": ["zmeinosheynaya_cherepaha", "aksolotl"]},
+      {"text": "Быстрота и интуиция", "weights": ["zakavkazskaya_nosataya_gadyuka", "cepkohvostyy_botrops"]},
+      {"text": "Мне больше нравится наблюдать", "weights": ["binturong", "raduzhnyy_krab"]}
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Твое идеальное место?",
+    "answers": [
+      {"text": "Тихое и спокойное", "weights": ["mysh_malyutka", "aksolotl"]},
+      {"text": "Высоко, откуда видно всё", "weights": ["belogolovyy_orlan", "boliviyskaya_mirikina"]},
+      {"text": "Неважно, главное, чтобы меня не трогали", "weights": ["binturong", "gavialovyy_krokodil"]}
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Как ты решаешь конфликты?",
+    "answers": [
+      {"text": "Иду на переговоры", "weights": ["mysh_malyutka", "aksolotl"]},
+      {"text": "Я их не замечаю", "weights": ["boliviyskaya_mirikina", "zmeinosheynaya_cherepaha"]},
+      {"text": "Бью первым", "weights": ["cepkohvostyy_botrops", "zakavkazskaya_nosataya_gadyuka"]}
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Твой любимый способ передвижения?",
+    "answers": [
+      {"text": "Только пешком", "weights": ["zakavkazskaya_nosataya_gadyuka", "zmeinosheynaya_cherepaha"]},
+      {"text": "Всё что угодно, но с мотором", "weights": ["gavialovyy_krokodil", "binturong"]},
+      {"text": "Зачем ехать, если можно долететь?", "weights": ["belogolovyy_orlan", "boliviyskaya_mirikina"]}
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Как ты обычно ешь?",
+    "answers": [
+      {"text": "Медленно пережёвываю", "weights": ["zmeinosheynaya_cherepaha", "mysh_malyutka"]},
+      {"text": "Быстро и жадно", "weights": ["cepkohvostyy_botrops", "zakavkazskaya_nosataya_gadyuka"]},
+      {"text": "С любопытством пробую новое", "weights": ["boliviyskaya_mirikina", "binturong"]}
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ты больше любишь быть:",
+    "answers": [
+      {"text": "Один", "weights": ["zakavkazskaya_nosataya_gadyuka", "aksolotl"]},
+      {"text": "В компании", "weights": ["boliviyskaya_mirikina", "raduzhnyy_krab"]},
+      {"text": "С кем-то одним", "weights": ["binturong", "belogolovyy_orlan"]}
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Как ты восстанавливаешь силы после трудного дня?",
+    "answers": [
+      {"text": "В воде или под водой", "weights": ["gavialovyy_krokodil", "aksolotl"]},
+      {"text": "Наедине с собой", "weights": ["zakavkazskaya_nosataya_gadyuka", "zmeinosheynaya_cherepaha"]},
+      {"text": "Активные игры", "weights": ["boliviyskaya_mirikina", "raduzhnyy_krab"]}
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Как ты выглядишь в социальных сетях?",
+    "answers": [
+      {"text": "Стильно и ярко", "weights": ["raduzhnyy_krab", "aksolotl"]},
+      {"text": "Скромно и аккуратно", "weights": ["binturong", "zmeinosheynaya_cherepaha"]},
+      {"text": "Не показываю ничего", "weights": ["mysh_malyutka", "cepkohvostyy_botrops"]}
+    ]
+  }
+]

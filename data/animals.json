@@ -1,0 +1,52 @@
+{
+  "aksolotl": {
+      "name": "АКСОЛОТЛЬ",
+      "description": "Ты любишь оставаться незамеченным, но внутри — настоящий борец. Спокойный, но упрямый, как никто другой.",
+      "image": "media/images/aksolotl.jpg"
+  },
+  "belogolovyy_orlan": {
+      "name": "БЕЛОГОЛОВЫЙ ОРЛАН",
+      "description": "Ты прирождённый лидер. Любишь наблюдать за всем издалека, а если нужно — вмешиваешься решительно и точно.",
+      "image": "media/images/belogolovyy_orlan.jpg"
+  },
+  "binturong": {
+      "name": "БИНТУРОНГ",
+      "description": "Ты скрытен, но обаятелен. Обожаешь спать и быть непредсказуемым. Появляешься внезапно и всегда с эффектом присутствия.",
+      "image": "media/images/binturong.jpg"
+  },
+  "boliviyskaya_mirikina": {
+      "name": "БОЛИВИЙСКАЯ МИРИКИНА",
+      "description": "Ты дружелюбна и любопытна, как никто другой. Обожаешь новых друзей и новые места.",
+      "image": "media/images/boliviyskaya_mirikina.jpg"
+  },
+  "gavialovyy_krokodil": {
+      "name": "ГАВИАЛОВЫЙ КРОКОДИЛ",
+      "description": "Ты стратег. Всё продумываешь заранее, действуешь уверенно и целенаправленно.",
+      "image": "media/images/gavialovyy_krokodil.jpg"
+  },
+  "zakavkazskaya_nosataya_gadyuka": {
+      "name": "ЗАКАВКАЗСКАЯ НОСАТАЯ ГАДЮКА",
+      "description": "Ты знаешь, когда молчать, а когда напасть. Хорошо чувствуешь момент, чтобы проявить себя.",
+      "image": "media/images/zakavkazskaya_nosataya_gadyuka.jpg"
+  },
+  "zmeinosheynaya_cherepaha": {
+      "name": "ЗМЕИНОШЕЙНАЯ ЧЕРЕПАХА",
+      "description": "Ты осторожен и терпелив. Все действия обдумываешь, но однажды обязательно достигаешь цели.",
+      "image": "media/images/zmeinosheynaya_cherepaha.jpg"
+  },
+  "mysh_malyutka": {
+      "name": "МЫШЬ-МАЛЮТКА",
+      "description": "Ты маленький, но находчивый. Умеешь выживать в любой ситуации и не привлекать внимание.",
+      "image": "media/images/mysh_malyutka.jpg"
+  },
+  "raduzhnyy_krab": {
+      "name": "РАДУЖНЫЙ КРАБ",
+      "description": "Ты яркий, харизматичный и всегда хочешь быть замеченным. Твой стиль говорит сам за себя.",
+      "image": "media/images/raduzhnyy_krab.jpg"
+  },
+  "cepkohvostyy_botrops": {
+      "name": "ЦЕПКОХВОСТЫЙ БОТРОПС",
+      "description": "Ты хищник в душе. Тихий, но опасный, если его спровоцировать. Не боишься быть один.",
+      "image": "media/images/cepkohvostyy_botrops.jpg"
+  }
+}
