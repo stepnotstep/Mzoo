@@ -1,6 +1,1 @@
-aiogram==3.*
-python-dotenv
-Pillow
-pytest
-pytest-asyncio
-coverage
+
